@@ -2,17 +2,17 @@
 Servlet &amp; JSP  CRUD EXAMPLE
 
 
-Configure
+# Configure
 
-Sql/servletdb
-  this sql file import your db
+ # Sql/servletdb
+  	this sql file import your db
   
-src/orm/DBUtils.java
-  static String url = "jdbc:mysql://localhost/YOUR_DATABASE_NAME";
+ # src/orm/DBUtils.java
+  	static String url = "jdbc:mysql://localhost/YOUR_DATABASE_NAME";
 	
-  static String username = "USERNAME";
+  	static String username = "USERNAME";
 	
-  static String passwordd = "PASSWORD";
+  	static String passwordd = "PASSWORD";
   
   
   
