@@ -9,7 +9,9 @@ Sql/servletdb
   
 src/orm/DBUtils.java
   static String url = "jdbc:mysql://localhost/YOUR_DATABASE_NAME?&useLegacyDatetimeCode=false&serverTimezone=Turkey&useSSL=false";
+	
 	static String username = "USERNAME";
+	
 	static String passwordd = "PASSWORD";
   
   
